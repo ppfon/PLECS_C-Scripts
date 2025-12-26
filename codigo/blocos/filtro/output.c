@@ -1,0 +1,1 @@
+OutputSignal(0, 0) = Filtro_calcula(&filtro, InputSignal(0, 0));
